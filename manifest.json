@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Basic",
+  "description": "First Chrome extension.",
+  "version": "1.0.0",
+  "icons": {
+    "512": "/images/icons/B.png"
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": "/images/icons/Bsmall.png"
+  },
+  "permissions": []
+}
